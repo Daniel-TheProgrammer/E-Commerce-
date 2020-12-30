@@ -7,3 +7,5 @@ This is an E-commerce site with React and Node Which Should have Shopping Catego
 *React and Redux for the front end
 *Node js and express js for backend
 *Database is going to be MongoDB,ORM
+
+Deployed on: https://node-react-ecommerce-app.herokuapp.com/
