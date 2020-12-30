@@ -1,3 +1,4 @@
+
 {
   "name": "amazona",
   "version": "1.0.0",
@@ -33,14 +34,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/basir/amazona.git"
+    "url": "git+https://github.com/Daniel-TheProgrammer/amazona.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/basir/amazona/issues"
+    "url": "https://github.com/basir/Daniel-TheProgrammer/issues"
   },
-  "homepage": "https://github.com/basir/amazona#readme",
+  "homepage": "https://github.com/Daniel-TheProgrammer/amazona#readme",
   "engines": {
     "node": "12.4.0",
     "npm": "6.9.0"
